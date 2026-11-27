@@ -10,8 +10,6 @@ bot.owner.id = 123456789abcdef
 notification.pending.time = 60
 # Path to store flatfiles
 flatfile.path = C:\\Antony\\
-# Set SQLite database path
-sqlite.db.path = antony.db
 # Set Bot version from pom.xml
 bot.version = ${project.version}
 # Set Antcheck API Key

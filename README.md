@@ -20,7 +20,6 @@ Antony is a Java-based Discord bot that provides common bot features as well as 
 - Standard Discord bot functionality
 - Custom features tailored for an ant-keeping community
 - Configurable via properties templates
-- Database support using Hibernate + SQLite
 - REST capabilities via Resteasy
 
 ---
