@@ -102,7 +102,6 @@ java -jar target/Antony-*-jar-with-dependencies.jar
 
 - [JDA](https://github.com/DV8FromTheWorld/JDA) – Java Discord API
 - [Maven](https://maven.apache.org/) – Build tool
-- [Hibernate](https://hibernate.org/) – ORM
 - [Resteasy](https://resteasy.dev/) – REST framework
 - [Log4j](https://logging.apache.org/log4j/) – Logging
 
